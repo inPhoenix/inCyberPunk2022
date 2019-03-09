@@ -1,0 +1,24 @@
+{
+  "name": "cybersocial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production npm run --prefix nodeapi server",
+    "server": "nodemon app.js --prefix nodeapi",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
+    "heroku-postbuild": "cd client && npm install && npm run build",
+    "heroku-prebuild": "npm install --prefix nodeapi"
+  },
+  "engines": {
+    "node": "11.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.9"
+  }
+}
