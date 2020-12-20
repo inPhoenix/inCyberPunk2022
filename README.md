@@ -14,7 +14,7 @@ https://cybersocial.herokuapp.com/
 
 A Full Stack Social Media with Node/React with a CyberPunk theme.
 
-<img title="logo" src="public/cyberpunksocialpreview.jpg" width="60%" alt='demo'>
+<img title="logo" src="public/cyberpunksocialpreview.jpg" width="80%" alt='demo'>
 
 ### The stack
 
