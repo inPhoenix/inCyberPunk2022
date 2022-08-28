@@ -6,7 +6,7 @@
   "dependencies": {
     "@trendmicro/react-sidenav": "^0.4.5",
     "arwes": "^1.0.0-alpha.5",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "node-sass": "^4.11.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
