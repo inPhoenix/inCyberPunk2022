@@ -6,9 +6,12 @@
 
 
     C̶̡̧̧͍͖̳͈͇̳̠͆̊̾̂̔̈́͆̕͜͝͝y̴̡̨̛̞̪͇̻̤̟̦̰̻̫͑̓̌ͅb̵̹̮͍̘̲̹̗̯͈̆́͜ḛ̷̩̪͕̪͎̄̂r̸̞͎̝̀̏̎͘P̵̢̧̛̻̜͇̝͖͔̒u̸̢̧̹̪̻͎͕͂̄͗̃̐̽n̵̡̧͎̦̤̹͎͎͕̠̝̝̈k̶̰͎͍̪̞̩̯̆̀͝  2022 Ŝ̵̪͓̞͉̳̂̆́̍̽̈̕ơ̸̢̠͚̯̠̰̬̲̫̳̈́̈́ḉ̴̰̬̘̪̟͉̼̺̙͔͇̟͌̍̊͑̈́̀̇́͠i̷̺̹̘̱̓̏̈́̇͗̒͐̅̀̿̄ȁ̷̰̳͓͙̗͉̳̍͂̾̂͆͜͠l̵̨̢̦̩̬̳̗̪̣͈͉̦̀͂͜ͅͅ ̶̨̨̥̜̘̦͉̪̘͎̟̭̫̼̤̅͛̅̏̏̀̓͊̌͝N̶̡̛̦͚̖̜̳̱̳̤̝̊̋̂̋̒͆̐͌͒̄͝e̵̛̛̞̰̖̼̩̹̝̓̌̎̍͛̓͝t̵̩̾̅͛̏̂́̓̉͋͂̍́w̶̡̲̱̼̹̬̬̯̬͇̺̋̉̈̾͛͐̑͐̽͒̀̆͑͐ͅͅö̵̩̼r̵̡͉͙͕̥͈̤̰͊̏͂ͅk̴̡̛̠̲͚̭̥̯̙͎̗̜̹͚͉̓̽̈͗̓̓̇̕͘͜͝
-    THIS IS THE ONLY NETWORK AVAILABLE after the Cyber Atack caused by CyberPunk 2077 
-    During the release of CyberPunk 2077, a virus has been installed on all devices through government attack.
-    After that, all social networks have been shut down due to virus or government crackdown.
+    
+    
+    
+    Our social network is the only one available after a devastating cyber attack caused by CyberPunk 2077. 
+    It's a safe and secure platform for like-minded individuals to connect and stay up-to-date on the latest happenings 
+    in a world without traditional social networks. Join us and stay ahead of the game in this dystopian future.
     
 
 https://cybersocial.herokuapp.com/
